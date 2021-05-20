@@ -1,8 +1,8 @@
 #######################################################################################
 # Book settings
 title: Schraubenerkennung mit CNN's  # The title of the book
-author: Martin Weilepp  # The author of the book to be placed in the footer
-copyright: ''  # Copyright year to be placed in the footer
+author: Martin Weilepp at HTWG-Konstanz  # The author of the book to be placed in the footer
+copyright: '2021'  # Copyright year to be placed in the footer
 logo: ./figures/Profilbild.png  # A path to the book logo
 
 #######################################################################################

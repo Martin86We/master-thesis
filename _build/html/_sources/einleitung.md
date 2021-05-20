@@ -8,16 +8,11 @@ Eine Suche nach Objekterkennung bei Google ergab:
 
 Wir wollen also Objekte, in unserem Fall Schrauben in Bildern erkennen und dafür machine learning und deep learning Techniken verwenden.
 
-| ![The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need](./figures/welcome.jpg) |
+| ![Ein Foto ist schnell eingefügt:](./figures/welcome.jpg) |
 | ---------------|
-| _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807) |
+| Ein Foto by Martin W.|
 
 ## Über Mich
 
-bla bla
+Hallo mein name ist Martin Weilepp.
 
-_The Turing Way_ is:
-
-* a book
-* a community
-* a global collaboration
