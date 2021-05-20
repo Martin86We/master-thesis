@@ -3,16 +3,15 @@ Wer kennt es nicht, es ist gerade wieder Lockdown und man möchte ein Heimwerker
 
 Die Lösung wäre eine automatische Schraubenerkennung. Ein Foto von der Schraube als Eingabe und die Bezeichnung der Schraube als Output.
 
-Eine Suche nach Objekterkennung bei Google ergab:
-- Object recognition is a computer vision technique for identifying objects in images or videos. Object recognition is a key output of deep learning and machine learning algorithms. When humans look at a photograph or watch a video, we can readily spot people, objects, scenes, and visual details.
+Wie CNN's funktionieren und wie man Schrauben damit erkennen kann wollen wir uns in dieser Thesis Schritt für Schritt ansehen und umsetzen.
 
-Wir wollen also Objekte, in unserem Fall Schrauben in Bildern erkennen und dafür machine learning und deep learning Techniken verwenden.
+Interaktiv mit Programmcode, welcher direkt im Buch ausgeführt werden kann.
 
 | ![Ein Foto ist schnell eingefügt:](./figures/welcome.jpg) |
 | ---------------|
-| Ein Foto by Martin W.|
+| Überlingen 2021, Papa und Sohn. Foto by Mama|
 
 ## Über Mich
 
-Hallo mein name ist Martin Weilepp.
+Hallo mein Name ist Martin Weilepp.
 
