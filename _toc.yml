@@ -1,0 +1,29 @@
+- file: welcome
+- file: einleitung
+  title: Einleitung
+  chapters:
+  - file: Get started/How To Interact With This Book
+    title: Interact with this Book
+  - file: Get started/pictures in jupyter
+    title: Bilder in Jupyter Notebook
+- file: Grundlagen/Grundlagen
+  title: Grundlagen
+  chapters:
+  - file: Grundlagen/Lineare Regression/Lineare Regression
+    title: Lineare Regression
+    sections:
+    - file: Grundlagen/Lineare Regression/lineare Regression1
+      title: Lineare Regression (mit einem Punkt)
+    - file: Grundlagen/Lineare Regression/Gradientenabstiegsverfahren
+      title: Gradientenabstiegsverfahren
+    - file: Grundlagen/Lineare Regression/lineare Regression2
+      title: Lineare Regression (mit mehreren Punkten)
+    - file: Grundlagen/Lineare Regression/lineare Regression (vektorisiert)
+      title: Lineare Regression (vektorisiert)
+
+
+
+
+
+
+
