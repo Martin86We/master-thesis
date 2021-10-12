@@ -1,4 +1,4 @@
-# Herzlich Willkommen Herr Lege
+# Herzlich Willkommen
 
 Masterarbeit über Schraubenerkennung mit Hilfe von Convolutional Neural Nets (CNN).
 Das Format in dem wir uns Befinden, ist ein Jupyter-Book!
